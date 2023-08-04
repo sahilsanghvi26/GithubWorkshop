@@ -2,3 +2,4 @@ Tiger
 Lion
 Whale
 Leopard
+Panther
